@@ -1,0 +1,72 @@
+# github搭建稳定图床  亲测好用
+
+之前用过一些图床，但一般都比较糟心，而且不方便编写markdown的博客，发现VS code支持编写markdown的博客，而且支持一键上传到github图床，特此记录！
+
+### 1. VScode插件PicGo
+
+需要用到Picgo这个插件，直接在vscode中搜索安装就行。
+
+### 2. PicGo的Github配置
+
+打开设置，找到extensions中的Picgo的设置
+![20191127232845.png](https://raw.githubusercontent.com/718087538/718087538.github.io/master/img/20191127232845.png)
+
+往下拖找到github，进行配置:
+
+![20191127233259.png](https://raw.githubusercontent.com/718087538/718087538.github.io/master/img/20191127233259.png)
+
+首先是PicGo-Core设为
+```
+github
+```
+
+Branch自己用git命令
+```
+git branch -a
+```
+
+查看自己的branch，我就一个master，所以填的master
+
+Path要和Repo搭配使用，到时候上传的图片就会到Repo+Path目录下，比如我的会传到：
+```
+7180875378/718087538.github.io/img/
+```
+下面，所以并不需要单独开个repo，加个目录就行。
+
+注意，Path后面加"/"，不然后面一部分会当成图片名称合并进去。比如Path设为：
+```
+img/hello
+```
+
+那么上传world.png时图片会成为：
+```
+imgs_for_blogs/helloworld.png
+```
+
+最后一步的token，从github上重新生成一个就行(token只出现一次)。首先从头像那打开设置:
+
+![20191127233729.png](https://raw.githubusercontent.com/718087538/718087538.github.io/master/img/20191127233729.png)
+
+找到最下面的Developer Settings:
+
+![20191127233807.png](https://raw.githubusercontent.com/718087538/718087538.github.io/master/img/20191127233807.png)
+
+
+![20191127233918.png](https://raw.githubusercontent.com/718087538/718087538.github.io/master/img/20191127233918.png)
+
+最后把token复制到PicGo设置里的Github Token里就行。然后就可以在vscode里使用图床了。
+
+
+三个简要命令：
+
+```
+ctrl+alt+e  //从文件目录手动插入图片
+
+ctrl+alt+u  //从剪贴板插入图片
+
+ctrl+alt+o  //从输入目录插入图片，相对目录和绝对目录都行
+
+```
+
+
+## 感谢观看，欢迎点赞，谢谢！ ^*-_-*^
