@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Git指令整理22
+title:      G33333333333
 subtitle:   2不适合阅读的整理的一些个人常用的 Git 指令
 date:       2017-02-15
 author:     BY
