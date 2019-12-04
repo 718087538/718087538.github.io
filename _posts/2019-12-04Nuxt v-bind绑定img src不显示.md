@@ -1,13 +1,15 @@
 ---
 layout:     post
-title:      Nuxt v-bind绑定img src不显示
-subtitle:   nuxt v-bind绑定img src不显示
-date:       2019-12-04
-author:     KASON
-header-img: img/post-bg-keybord.jpg
+title:      Git指令整理22
+subtitle:   2不适合阅读的整理的一些个人常用的 Git 指令
+date:       2017-02-15
+author:     BY
+header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - Blog
+    - Mac
+    - 终端
+    - Git
 ---
 
 >nuxt v-bind绑定img src不显示
