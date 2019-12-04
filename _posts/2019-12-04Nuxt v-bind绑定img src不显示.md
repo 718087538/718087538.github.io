@@ -1,15 +1,13 @@
 ---
 layout:     post
-title:      G33333333333
-subtitle:   2不适合阅读的整理的一些个人常用的 Git 指令
-date:       2017-02-15
-author:     BY
-header-img: img/post-bg-ios9-web.jpg
+title:      Nuxtv-bind绑定imgsrc不显示
+subtitle:   nuxtv-bind绑定imgsrc不显示
+date:       2019-12-04
+author:     KASON
+header-img: img/post-bg-keybord.jpg
 catalog: true
 tags:
-    - Mac
-    - 终端
-    - Git
+    - Blog
 ---
 
 >nuxt v-bind绑定img src不显示
