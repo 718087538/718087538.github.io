@@ -10,6 +10,7 @@ tags:
     - Blog
 ---
 
+>nuxt v-bind绑定img src不显示
 
 ## 问题：
 使用v-for循环， :src="item.url"，绑定图片无法显示，只能写成静态结构；
