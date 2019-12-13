@@ -1,16 +1,19 @@
 ---
 layout:     post
-title:      Nuxtv-bind绑定imgsrc不显示
-subtitle:   nuxtv-bind绑定imgsrc不显示
-date:       2019-12-04
-author:     KASON
-header-img: img/post-bg-keybord.jpg
+title:      G4444
+subtitle:   2不适合阅读的整理的一些个人常用的 Git 指令
+date:       2017-02-15
+author:     BY
+header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - Blog
+    - Mac
+    - 终端
+    - Git
 ---
 
 >nuxt v-bind绑定img src不显示
+
 
 ## 问题：
 使用v-for循环， :src="item.url"，绑定图片无法显示，只能写成静态结构；
