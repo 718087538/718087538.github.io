@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      G显示222
+title:      2不适合阅读的整理的一些个人常用
 subtitle:   2不适合阅读的整理的一些个人常用的 Git 指令
 date:       2017-02-15
 author:     BY
