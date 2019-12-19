@@ -2,7 +2,7 @@
 layout:     post
 title:      axios中delete多样传参
 subtitle:   在vue和Nuxt中使用axios在不同位置传参
-date:       2019-12-018
+date:       2019-12-18
 author:     KASON
 header-img: img/articleBg/post-bg-js-version.jpg
 catalog: true
