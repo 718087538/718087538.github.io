@@ -12,7 +12,7 @@ tags:
     - 服务器
 ---
 
->git push出现ssh_dispatch_run_fatal错误
+>gitPush出现ssh_dispatch_run_fatal错误
 
 
 ### 问题：gitpush遇到一下错误：
