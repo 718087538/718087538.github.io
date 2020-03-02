@@ -1,18 +1,18 @@
 ---
 layout:     post
-title:      git push出现ssh_dispatch_run_fatal错误
-subtitle:   git push出现ssh_dispatch_run_fatal错误
-date:       2020-02-20
+title:      nuxt.js服务端渲染使用rem222
+subtitle:   nuxt如何配置rem，适配移动端22
+date:       2020-01-07
 author:     Kason
-header-img: img/articleBg/post-bg-js-version.jpg
+header-img: img/articleBg/vue-bg.jpg
 catalog: true
 tags:
-    - git
-    - JavaScript
-    - 服务器
+    - 前端
+    - Vue
+    - Nuxt
 ---
 
->gitPush出现ssh_dispatch_run_fatal错误
+>nuxt.js服务端渲染使用rem2
 
 
 ### 问题：gitpush遇到一下错误：
