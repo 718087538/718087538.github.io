@@ -19,11 +19,11 @@ sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     kason
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
+zhihu_username:     luo-mu-88-41
+github_username:    718087538
+facebook_username:  100029177837315
 jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+twitter_username:   D0Pr32oFCs4xUsx
 
 
 
@@ -99,13 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-       title: "csdn_me",
-        href: "https://blog.csdn.net/weixin_44563906"
-    },{
-        title: "简书·BY",
+        title: "简书",
         href: "http://www.jianshu.com/u/e71990ada2fd"
     },{
-         title: "segmentFault_me",
+         title: "思否",
         href: "https://segmentfault.com/u/kason_5c6fb9100a56b"
+    },{
+         title: "本站",
+        href: "http://kason.cool/"
+    },{
+       title: "csdn_me",
+        href: "https://blog.csdn.net/weixin_44563906"
     }
 ]
