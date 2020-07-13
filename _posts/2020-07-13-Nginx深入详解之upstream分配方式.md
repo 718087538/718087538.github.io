@@ -4,7 +4,7 @@ title:      Nginx深入详解之upstream分配方式
 subtitle:   Nginx分配请求给后端服务器的方式
 date:       2020-07-13
 author:     Kason
-header-img: img/articleBg/vue-bg.jpg
+header-img: img/articleBg/db1.jpg
 catalog: true
 tags:
     - nginx

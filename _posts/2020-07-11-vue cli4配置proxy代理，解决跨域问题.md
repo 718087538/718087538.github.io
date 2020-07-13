@@ -4,7 +4,7 @@ title:      vue cli4配置proxy代理，解决跨域问题
 subtitle:    vue cli4配置proxy代理，解决跨域问题
 date:       2020-07-11
 author:     Kason
-header-img: img/articleBg/vue-bg.jpg
+header-img: img/articleBg/server_bg2.jpg
 catalog: true
 tags:
     - 前端
